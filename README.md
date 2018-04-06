@@ -1,4 +1,4 @@
-# StreamSAK v2.1
+## StreamSAK v2.2
 
 As a streamer, I've always looked for an elegant tool that I could use to adjust my wins/losses/draws count on the fly, without having to tab out or edit a file manually.  I never found anything, so I decided to make it myself.
 
