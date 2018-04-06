@@ -7,7 +7,7 @@ Note: The program creates files to hold the data in the program location.  For e
 Want to see it in action?
 https://www.youtube.com/watch?v=drnV5E5TTUM
 
-Since the video, very few changes have been made, check the release notes below to get a better idea of what's been changed.
+Since the video (the **original release**), very few changes have been made, check the release notes below to get a better idea of what's been changed.
 
 
 
