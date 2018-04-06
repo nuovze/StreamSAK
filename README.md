@@ -20,7 +20,7 @@ Since the video (the **original release**), very few changes have been made, che
   - If StreamSAK is out of date, it will let you know with an option to update it.
   - Automatic Adjuster Calls (the thing that will automatically allow you to modify your adjuster after you click a counter) was shortened to AAC, and changed into a toggle button rather than a checkbox. 
   - Supporting the developer (me) has been moved from the title to directly above the log, and isn't as "in your face".  Now it just says "*Support the dev*", instead of a direct link to my Twitch channel.
-  - When to input is more obvious (textbox changes color, and cursor always flashes).
+  - When to provide input is more obvious (textbox changes color, and cursor always flashes).
 
 **v2.1 (4/6/18) - Added creation/deletion options of counters/adjusters.**
   - You can now create and delete counters and adjusters directly from the program.
