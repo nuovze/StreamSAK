@@ -18,6 +18,7 @@ Since the video (the **original release**), very few changes have been made, che
   - Deleting counters and adjusters isn't quite as picky.  You used to have to type the exact name of the counter/adjuster, which you may not have realized since it could have been hidden (e.g. the counter "wins--sr" would display as "wins").  Now, the program automatically finds the best match to delete (e.g. "wins--sr" would be deleted if you just typed "wins").
   - If counters automatically called an adjuster after use, you had no indication.  Now, if it calls an adjuster, it is displayed in its name (e.g the counter "wins--sr" would be displayed as "wins [+1]--sr").
   - If StreamSAK is out of date, it will let you know with an option to update it.
+  - Automatic Adjuster Calls was shortened to AAC, and changed into a toggle button rather than a checkbox. 
   - Supporting the developer (me) has been moved from the title to directly above the log, and isn't as "in your face".  Now it just says "*Support the dev*", instead of a direct link to my Twitch channel.
 
 **v2.1 (4/6/18) - Added creation/deletion options of counters/adjusters.**
