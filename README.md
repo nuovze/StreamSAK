@@ -1,5 +1,3 @@
-## StreamSAK v2.2
-
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/Capture.PNG "StreamSAK v2.2")
 
 As a streamer, I've always looked for an elegant tool that I could use to adjust my wins/losses/draws count on the fly, or various text tidbits, without having to tab out or edit a file manually.  I never found anything, so I decided to make it myself.  It stands for Stream Swiss Army Knife, by the way.
