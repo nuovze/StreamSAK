@@ -12,6 +12,6 @@ https://www.youtube.com/watch?v=drnV5E5TTUM
 
 ### Releases:
 
-v2.1 - Added creation/deletion of counters/adjusters in program
+v2.1 (4/6/18) - Added creation/deletion of counters/adjusters in program
 
-v2.0 - Original release
+v2.0 (4/5/18) - Original release
