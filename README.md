@@ -12,7 +12,7 @@ Since the video (the **original release**), very few changes have been made, che
 
 
 
-### Releases:
+## Releases:
 
 **v2.2 (4/6/18) - Revised creation/deletion options, added self-check updater, adjusted counter naming convention to show if it calls an adjuster.**
   - Deleting counters and adjusters isn't quite as picky.  You used to have to type the exact name of the counter/adjuster, which you may not have realized since it could have been hidden (e.g. the counter "wins--sr" would display as "wins").  Now, the program automatically finds the best match to delete (e.g. "wins--sr" would be deleted if you just typed "wins").
