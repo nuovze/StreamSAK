@@ -7,7 +7,7 @@ As a streamer, I've always looked for an elegant tool that I could use to adjust
 Note: The program creates files to hold the data in the program location.  For example, if the .jar file is on my Desktop, it will create its files on the Desktop.  I recommend placing it in a folder by itself somewhere.  Then, just set up OBS to read in text from a file, and your counter/text adjuster is all set up to go!
 
 Want to see it in action?
-https://www.youtube.com/watch?v=drnV5E5TTUM
+https://youtu.be/5vMYJbCoJkU
 
 Since the video (the **original release**), very few changes have been made, check the release notes below to get a better idea of what's been changed.
 
