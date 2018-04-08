@@ -16,7 +16,7 @@ The only thing you need to download is the **StreamSAK.jar** file, and the rest 
 
 
 
-## Releases:
+## Release Notes
 
 **v3.1 (04.08.18) - Added space between CLEAR LOG, and the counter/adjuster options.**
 
