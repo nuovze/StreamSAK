@@ -18,7 +18,7 @@ The only thing you need to download is the StreamSAK.jar file, and the rest is t
 
 ## Releases:
 
-**v3.1 (04.08.18) - Added space between CLEAR LOG, and the counter/adjuster options**
+**v3.1 (04.08.18) - Added space between CLEAR LOG, and the counter/adjuster options.**
 
 **v3.0 (04.08.18) - UI overhaul; linking adjusters to counters moved to file instead of file naming convention; added increment/decrement options; added linking option directly in program.**
   - Major UI overhaul fixes lots of bugs with large counter/adjuster names.
