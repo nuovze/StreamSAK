@@ -12,7 +12,9 @@ Want to see it in action?  **[Check it out here!](https://www.youtube.com/watch?
 
 Since the video (**v3.0**), lots of awesome changes have been made, check the release notes below to get a better idea of what's been changed.
 
-If you want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
+If you want to learn more about developing and/or using plug-ins which work with StreamSAK, check that out here:
+
+**[StreamSAK Plugins](data/plugins)**
 
 
 
