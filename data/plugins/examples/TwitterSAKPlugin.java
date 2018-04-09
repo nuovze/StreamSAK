@@ -82,9 +82,9 @@ public class TwitterSAKPlugin implements AdvancedPlugin {
 	private void post(String post) {
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
-			.setOAuthConsumerKey("***********************") 				//
-			.setOAuthConsumerSecret("***********************")			// I've obviously hid my account details here,
-			.setOAuthAccessToken("************************")				// but I can assure you that the program works
+			.setOAuthConsumerKey("***********************") 	//
+			.setOAuthConsumerSecret("***********************")	// I've obviously hid my account details here,
+			.setOAuthAccessToken("************************")	// but I can assure you that the program works
 			.setOAuthAccessTokenSecret("***********************");	//
 
 		TwitterFactory tf = new TwitterFactory(cb.build());
