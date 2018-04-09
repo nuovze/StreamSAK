@@ -6,14 +6,16 @@ As a streamer, I've always looked for an elegant tool that I could use to adjust
 
 Note: The program creates files to hold the data in the program location.  For example, if the .jar file is on my Desktop, it will create its files on the Desktop.  I recommend placing it in a folder by itself somewhere.  Then, just set up OBS to read in text from a file, and your counter/text adjuster is all set up to go!
 
-Want to see it in action?
-https://youtu.be/5vMYJbCoJkU
+Want to see it in action?  **[Check it out here](https://www.youtube.com/watch?v=5vMYJbCoJkU)**
 
-Since the video (the **original release**), very few changes have been made, check the release notes below to get a better idea of what's been changed.
+Since the video (the **original release (v2.0)**), lots of changes have been made, check the release notes below to get a better idea of what's been changed.
 
-The only thing you need to download is the **[StreamSAK.jar](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK_v4.1.jar)** file, and the rest is taken care of by itself!  If you
-want to learn more about developing plug-ins to work with StreamSAK, check that out [here](data/plugins).
+The only thing you need to download is the **[StreamSAK.jar](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK.jar)** file, and the rest is taken care of by itself!  If you
+want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
 
+
+
+**[Download StreamSAK](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK.jar)**
 
 
 
