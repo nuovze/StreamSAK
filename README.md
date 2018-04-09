@@ -8,7 +8,7 @@ Note: The program creates files to hold the data in the program location.  For e
 
 Want to see it in action?  **[Check it out here](https://www.youtube.com/watch?v=5vMYJbCoJkU)**
 
-Since the video (the **original release (v2.0)**), lots of changes have been made, check the release notes below to get a better idea of what's been changed.
+Since the video (**v3.0**), lots of awesome changes have been made, check the release notes below to get a better idea of what's been changed.
 
 If you want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
 
