@@ -10,8 +10,7 @@ Want to see it in action?  **[Check it out here](https://www.youtube.com/watch?v
 
 Since the video (the **original release (v2.0)**), lots of changes have been made, check the release notes below to get a better idea of what's been changed.
 
-The only thing you need to download is the **StreamSAK.jar** file, and the rest is taken care of by itself!  If you
-want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
+If you want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
 
 
 
