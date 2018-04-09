@@ -11,7 +11,7 @@ https://youtu.be/5vMYJbCoJkU
 
 Since the video (the **original release**), very few changes have been made, check the release notes below to get a better idea of what's been changed.
 
-The only thing you need to download is the **StreamSAK.jar** file, and the rest is taken care of by itself!  If you
+The only thing you need to download is the **[StreamSAK.jar](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK_v4.1.jar)** file, and the rest is taken care of by itself!  If you
 want to learn more about developing plug-ins to work with StreamSAK, check that out [here](data/plugins).
 
 
