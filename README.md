@@ -18,6 +18,11 @@ The only thing you need to download is the **StreamSAK.jar** file, and the rest 
 
 ## Release Notes
 
+**v4.0 (04.09.18) - UI changes; bug fixes; now can load plug-ins**
+  - The UI is updated to look cleaner and as "one unit".
+  - Bugs related to deleting/creating counters/adjusters have been patched.
+  - You can now create your own plug-ins for StreamSAK.  They appear as buttons under the adjusters, and selecting them will perform whatever action you have coded.  I intend to create (free) plug-ins in the future that you can download and use if you want StreamSAK to have more functionality outside of just being a counter/text changer.
+
 **v3.1 (04.08.18) - Added space between CLEAR LOG, and the counter/adjuster options.**
 
 **v3.0 (04.08.18) - UI overhaul; linking adjusters to counters moved to file instead of file naming convention; added increment/decrement options; added linking option directly in program.**
