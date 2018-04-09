@@ -15,5 +15,7 @@ AdvancedPlugin
 
 The **SimplePlugin** interface contains limited functionality, while the **AdvancedPlugin** interface allows more versatility with your plug-in.  However, the AdvancedPlugin interface isn't always needed if you're just trying to do something simple.  Be sure to take a look at the two examples I've given you for reference:
 
-[AdvancedPluginExample](examples/AdvancedPluginExample)
-[SimplePluginExample](examples/SimplePluginExample)
+[AdvancedPluginExample](examples/AdvancedPluginExample.java)
+
+
+[SimplePluginExample](examples/SimplePluginExample.java)
