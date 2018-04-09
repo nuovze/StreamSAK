@@ -6,13 +6,14 @@
 
 As a streamer, I've always looked for an elegant tool that I could use to adjust my wins/losses/draws count on the fly, or various text tidbits, without having to tab out or edit a file manually.  I never found anything, so I decided to make it myself.  StreamSAK stands for Stream **S**-wiss **A**-rmy **K**-nife, by the way.
 
-*Note: The program creates files to hold the data in the program location.  For example, if the .jar file is on my Desktop, it will create its files on the Desktop.  I recommend placing it in a folder by itself somewhere.  Then, just set up OBS to read in text from a file, and your counter/text adjuster is all set up to go!*
+*Note: The program creates files to hold the data in the program location.  For example, if the .jar file is on my Desktop, it will create its files on the Desktop.  I recommend placing it in a folder by itself somewhere, and letting StreamSAK populate that folder.  Then, just set up OBS to read in text from the locations StreamSAK created, and your counter/text adjuster is all set up to go!*
 
 Want to see it in action?  **[Check it out here!](https://www.youtube.com/watch?v=5vMYJbCoJkU)**
 
 Since the video (**v3.0**), lots of awesome changes have been made, check the release notes below to get a better idea of what's been changed.
 
 If you want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
+
 
 
 ## Release Notes
