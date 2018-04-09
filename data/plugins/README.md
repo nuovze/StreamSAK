@@ -1,5 +1,11 @@
 ## StreamSAK Plugins
 
+As of v4.0, you can now use plug-ins with StreamSAK!  What does this mean?  Well, let's say that you wish that StreamSAK could do more than just change a textfile.  Let's say that you want StreamSAK to also include a button that automatically prompts you for input, and then posts that input you gave to Twitter for you.  *Impossible* you might say, but fear not, with v4.0+, StreamSAK plug-ins allow you to create your own, (or download someone else's) programs which can interact with StreamSAK with limitless possibilities!
+
+Check out the **[official releases](releases)** for currently approved/released plug-ins.
+
+
+
 ## Creating Your Own Plugins
 
 If you're a strapping young Java programmer, and want to add more functionality to StreamSAK, then you're in the right place.  To begin, you're going to have to download the source files for the interface implementation that you'll need.  You can do that below.
