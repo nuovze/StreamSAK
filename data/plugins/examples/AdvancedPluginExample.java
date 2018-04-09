@@ -53,14 +53,14 @@ public class AdvancedPluginExample implements AdvancedPlugin {
 	}
 
 	@Override
-	//return whether or not the plug-in requires a log entry to be made after it executes
-	public boolean requiresLogEntry() {
+	//return whether or not the plug-in requires input from the user through the StreamSAK input field
+	public boolean requiresInput() {
 		return true;
 	}
 
 	@Override
-	//return whether or not the plug-in requires input from the user through the StreamSAK input field
-	public boolean requiresInput() {
+	//return whether or not the plug-in requires a log entry to be made after it executes
+	public boolean requiresLogEntry() {
 		return true;
 	}
 
