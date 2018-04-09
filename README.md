@@ -10,12 +10,12 @@ Want to see it in action?  **[Check it out here](https://www.youtube.com/watch?v
 
 Since the video (the **original release (v2.0)**), lots of changes have been made, check the release notes below to get a better idea of what's been changed.
 
-The only thing you need to download is the **[StreamSAK.jar](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK.jar)** file, and the rest is taken care of by itself!  If you
+The only thing you need to download is the **StreamSAK.jar** file, and the rest is taken care of by itself!  If you
 want to learn more about developing plug-ins to work with StreamSAK, check that out **[here](data/plugins)**.
 
 
 
-**[Download StreamSAK](https://github.com/ShermanZero/StreamSAK/raw/master/StreamSAK.jar)**
+**[Download StreamSAK](https://github.com/ShermanZero/StreamSAK/raw/master/data/StreamSAK.jar)**
 
 
 
