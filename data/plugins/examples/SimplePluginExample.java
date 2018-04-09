@@ -34,7 +34,7 @@ public class SimplePluginExample implements SimplePlugin {
 	@Override
 	//when the user clicks the button, execute this action...
 	public void doOnPress() {
-		JOptionPane.showMessageDialog(null, "Hello from the SimplePlugin", "SimplePlugin", JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null, "Hello from SimplePlugin", "SimplePlugin", JOptionPane.INFORMATION_MESSAGE);
 	}
 
 }
