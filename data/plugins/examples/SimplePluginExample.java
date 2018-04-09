@@ -1,32 +1,40 @@
 package main;
 
 import javax.swing.JOptionPane;
-
 import main.SimplePlugin;
 
+/**
+* An example of a plug-in using the SimplePlugin interface.
+*
+* @author ShermanZero
+*/
 public class SimplePluginExample implements SimplePlugin {
 
-	private String name;
-	private String version;
-	
+	//plug-in name and version
+	private String name, version;
+
+	//default constructor sets the name and version
 	public SimplePluginExample() {
 		name = "SimplePlugin";
 		version = "v1.0";
 	}
-	
+
 	@Override
+	//return the name of the plug-in
 	public String getName() {
 		return name;
 	}
 
 	@Override
-	public void doOnPress() {
-		JOptionPane.showMessageDialog(null, "Hello from the SimplePlugin", "SimplePlugin", JOptionPane.INFORMATION_MESSAGE);
+	//return the version of the plug-in
+	public String getVersion() {
+		return version;
 	}
 
 	@Override
-	public String getVersion() {
-		return version;
+	//when the user clicks the button, execute this action...
+	public void doOnPress() {
+		JOptionPane.showMessageDialog(null, "Hello from the SimplePlugin", "SimplePlugin", JOptionPane.INFORMATION_MESSAGE);
 	}
 
 }
