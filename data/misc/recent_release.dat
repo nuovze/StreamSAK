@@ -1,0 +1,2 @@
+- Fixed bug with plug-in loader which prevented all .class files in a plug-in from loading in
+- Added display to update checker to showcase what's been updated

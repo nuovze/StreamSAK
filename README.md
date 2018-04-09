@@ -1,6 +1,6 @@
 ## StreamSAK v4.1
 
-![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/Capture.PNG "StreamSAK v4.1")
+![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png "StreamSAK v4.1")
 
 **[Download StreamSAK](https://github.com/ShermanZero/StreamSAK/raw/master/data/StreamSAK.jar)**
 
