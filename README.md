@@ -18,10 +18,10 @@ If you want to learn more about developing and/or using plug-ins which work with
 
 ## Release Notes
 
-**v4.2.1 (04.10.18) - Plug-in library updates**
+**v4.2.1 (04.10.18) - Plug-in library updates.**
   - StreamSAKPluginLibrary updates to ensure that plug-ins are never out of date with the current plug-in library build
 
-**v4.1.1 (04.09.18) - UI changes to updater; crucial bug fixed**
+**v4.1.1 (04.09.18) - UI changes to updater; crucial bug fixed.**
   - New StreamSAK updater UI
   - Fixed bug with plug-in loader which prevented all .class files in a plug-in from loading in
 
