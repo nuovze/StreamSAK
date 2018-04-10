@@ -1,2 +1,1 @@
-- Fixed bug with plug-in loader which prevented all .class files in a plug-in from loading in
-- New StreamSAK updater UI
+- StreamSAKPluginLibrary updates to ensure that plug-ins are never out of date with the current plug-in library build
