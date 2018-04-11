@@ -1,6 +1,6 @@
 ## StreamSAK Plugins
 
-As of v4.0, you can now use plug-ins with StreamSAK!  What does this mean?  Well, let's say that you wish that StreamSAK could do more than just change a textfile.  Let's say that you want StreamSAK to also include a button that automatically prompts you for input, and then posts that input you gave to Twitter for you.  *Impossible* you might say, but fear not, with v4.0+, StreamSAK plug-ins allow you to create your own, (or download someone else's) programs which can interact with StreamSAK with limitless possibilities!
+As of v4.0+, you can now use plug-ins with StreamSAK!  What does this mean?  Well, let's say that you wish that StreamSAK could do more than just change a textfile.  Let's say that you want StreamSAK to also include a button that automatically prompts you for input, and then posts that input you gave to Twitter for you.  *Impossible* you might say, but fear not, with v4.0+, StreamSAK plug-ins allow you to create your own, (or download someone else's) programs which can interact with StreamSAK with limitless possibilities!
 
 Check out the **[official releases](releases)** for currently approved/released plug-ins.
 
@@ -31,11 +31,7 @@ As you can see below, both plug-ins have been imported into the program, and in 
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png "StreamSAK v4.1")
 
-I also have another example, and it's more practical.  It's something I use for my own StreamSAK instance, and while I had to remove a little information from the actual .java file, you can find the example here:
 
-**[Twitter Plug-in Example](examples/TwitterSAKPlugin.java)**
-
-
-
+*Note: When exporting your plug-in to a .jar file, make sure you export it as a runnable .jar file with a main method.  Otherwise, any dependencies you may be using will not be exported with your .jar file in a format that the plug-in loader can recognize*
 
 Happy coding!
