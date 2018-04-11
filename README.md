@@ -20,7 +20,7 @@ If you want to learn more about developing and/or using plug-ins which work with
 
 **v4.3.0 (04.11.18) - UI updates; plug-in loader bug fixes.**
   - Big changes to the StreamSAK UI: removed AC button (now always on); added custom menu bar; support the dev moved to menu bar; StreamSAK version and library build moved to menu bar; clear log moved to above the log.
-  - Fixed a bug where the plug-in loader would accidentally try to load its own library
+  - Fixed a bug where the plug-in loader would accidentally try to load its own library.
 
 **v4.2.1 (04.10.18) - Plug-in library updates.**
   - StreamSAKPluginLibrary updates to ensure that plug-ins are never out of date with the current plug-in library build.
