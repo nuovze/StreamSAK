@@ -10,7 +10,7 @@ Check out the **[official releases](releases)** for currently approved/released 
 
 If you're a strapping young Java programmer, and want to add more functionality to StreamSAK, then you're in the right place.  To begin, you're going to have to download the source files for the interface implementation that you'll need.  You can do that below.
 
-**[Download StreamSAKPlugins](https://github.com/ShermanZero/StreamSAK/raw/master/data/plugins/src/StreamSAKplugins.jar)**
+**[Download StreamSAKPluginLibrary](https://github.com/ShermanZero/StreamSAK/raw/master/data/plugins/src/StreamSAKPluginLibrary.jar)**
 
 Once you've downloaded the StreamSAKPlugins.jar file, you're going to need to import it into your project and set your build path to include it.  From there, developing your plug-in is as easy as implementing one of two interfaces:
 
