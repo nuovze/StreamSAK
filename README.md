@@ -19,6 +19,13 @@ If you want to support me, check out my **[twitch channel](https://www.twitch.tv
 
 ## Release Notes
 
+**v4.3.2 (04.11.18) - Plug-in loader bug fixes.  General bug fixes.  UI updates.**
+  - Fixed a bug where auto-entering input would not read in the adjuster input accurately.
+  - Fixed a bug where sometimes entering input would not take action.
+  - Created more space between the options on the left side.
+  - Created more space below the input text field.
+  - Updated the manual-check update to include the recent release notes.
+
 **v4.3.1 (04.11.18) - Plug-in loader bug fixes.**
   - Fixed a bug where the plug-in loader could not accurately tell what library build a plug-in was using.
 

@@ -1,1 +1,5 @@
-- Fixed a bug where the plug-in loader could not accurately tell what library build a plug-in was using.
+- Fixed a bug where auto-entering input would not read in the adjuster input accurately.
+- Fixed a bug where sometimes entering input would not take action.
+- Created more space between the options on the left side.
+- Created more space below the input text field.
+- Updated the manual-check update to include the recent release notes.
