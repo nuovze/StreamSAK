@@ -1,2 +1,1 @@
-- Big changes to the StreamSAK UI: removed AC button (now always on); added custom menu bar; support the dev moved to menu bar; StreamSAK version and library build moved to menu bar; clear log moved to above the log.
-- Fixed a bug where the plug-in loader would accidentally try to load its own library
+- Fixed a bug where the plug-in loader could not accurately tell what library build a plug-in was using.

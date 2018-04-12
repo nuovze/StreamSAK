@@ -1,4 +1,4 @@
-## StreamSAK v4.3.0
+## StreamSAK v4.3.1
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
@@ -18,6 +18,9 @@ If you want to support me, check out my **[twitch channel](https://www.twitch.tv
 
 
 ## Release Notes
+
+**v4.3.1 (04.11.18) - Plug-in loader bug fixes.**
+  - Fixed a bug where the plug-in loader could not accurately tell what library build a plug-in was using.
 
 **v4.3.0 (04.11.18) - UI updates; plug-in loader bug fixes.**
   - Big changes to the StreamSAK UI: removed AC button (now always on); added custom menu bar; support the dev moved to menu bar; StreamSAK version and library build moved to menu bar; clear log moved to above the log.
