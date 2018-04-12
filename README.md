@@ -1,4 +1,4 @@
-## StreamSAK v4.3.1
+## StreamSAK v4.3.2
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
