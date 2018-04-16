@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## StreamSAK v4.4.0
+=======
+## StreamSAK v4.3.2
+>>>>>>> 01d255af825f1d2059ed2aaaf84748d8aa68c06a
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
