@@ -1,4 +1,4 @@
-## StreamSAK v4.3.1
+## StreamSAK v4.4.0
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
@@ -18,6 +18,11 @@ If you want to support me, check out my **[twitch channel](https://www.twitch.tv
 
 
 ## Release Notes
+
+**v4.4.0 (04.16.18) - UI/workflow updates.  Plug-in updates.**
+  - Removed "Delete Counter" from the options and gave each counter individual delete buttons.
+  - Removed "Delete Adjuster" from the options and gave each adjuster individual delete buttons.
+  - Updated plug-in library to build 0.3.0, now includes application start/end calls.
 
 **v4.3.2 (04.11.18) - Plug-in loader bug fixes.  General bug fixes.  UI updates.**
   - Fixed a bug where auto-entering input would not read in the adjuster input accurately.
