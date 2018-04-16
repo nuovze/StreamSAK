@@ -32,6 +32,7 @@ As you can see below, both plug-ins have been imported into the program, and in 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
 
+
 *Note: When exporting your plug-in to a .jar file, make sure you export it as a runnable .jar file with a main method.  Otherwise, any dependencies you may be using will not be exported with your .jar file in a format that the plug-in loader can recognize.*
 
 Happy coding!
