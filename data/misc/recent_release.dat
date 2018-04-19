@@ -1,3 +1,2 @@
-- Fixed a bug where the button highlighting would sometimes leave a button highlighted.
-- Fixed a bug where right-clicking an adjuster would not highlight to show reset.
-- Updates plug-in library to build 0.3.1; now includes an application settings call.
+- Complete overhaul to the plug-in library; now supports 0.4.0.
+- Minor bug fixes.

@@ -1,4 +1,4 @@
-## StreamSAK v4.4.1
+## StreamSAK v4.5.0
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
@@ -18,6 +18,10 @@ If you want to support me, check out my **[twitch channel](https://www.twitch.tv
 
 
 ## Release Notes
+
+**v4.5.0 (04.19.18) - Plug-in updates.**
+  - Complete overhaul to the plug-in library; now supports 0.4.0.
+  - Minor bug fixes.
 
 **v4.4.1 (04.16.18) - UI bug fixes.  Plug-in updates.**
   - Fixed a bug where the button highlighting would sometimes leave a button highlighted.
