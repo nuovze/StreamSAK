@@ -14,7 +14,7 @@ Since the video (**v3.0**), lots of awesome changes have been made, check the re
 
 If you want to learn more about developing and/or using plug-ins which work with StreamSAK, check that out here:  **[StreamSAK Plug-ins](data/plugins)**
 
-If you want to support me, check out my **[twitch channel](https://www.twitch.tv/shermanzero)**!
+If you want to support me, check out my **[Twitch channel](https://www.twitch.tv/shermanzero)**!
 
 
 ## Release Notes
