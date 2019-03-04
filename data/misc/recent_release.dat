@@ -1,2 +1,2 @@
-- Complete overhaul to the plug-in library; now supports 0.4.0.
-- Minor bug fixes.
+- Keybind support for counters has been added!
+- Yes, it's buggy, but it works.
