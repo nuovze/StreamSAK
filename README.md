@@ -1,4 +1,4 @@
-## StreamSAK v4.5.0
+## StreamSAK v4.6.0
 
 ![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
 
@@ -18,6 +18,9 @@ If you want to support me, check out my **[twitch channel](https://www.twitch.tv
 
 
 ## Release Notes
+
+**v4.6.0 (03.04.19) - Keybinds!**
+  - As requested, I've added keybind support for counters into StreamSAK.
 
 **v4.5.0 (04.19.18) - Plug-in updates.**
   - Complete overhaul to the plug-in library; now supports 0.4.0.
