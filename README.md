@@ -1,6 +1,6 @@
 ## StreamSAK v4.7.0
 
-![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.png)
+![alt text](https://github.com/ShermanZero/StreamSAK/blob/master/data/misc/StreamSAK.jpg)
 
 **[Download StreamSAK](https://github.com/ShermanZero/StreamSAK/raw/master/data/StreamSAK.jar)**
 
