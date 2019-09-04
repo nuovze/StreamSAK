@@ -17,7 +17,7 @@ If you want to learn more about developing and/or using plug-ins which work with
 If you want to support me, check out my **[Twitch channel](https://www.twitch.tv/shermanzero)**!
 
 
-## Release Notes
+## Changelog
 **v4.7.0 (09.04.19) - Resizable**
   - It took me a while to add this, but you can now resize the StreamSAK window.
 
